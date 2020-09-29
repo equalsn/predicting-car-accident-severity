@@ -2,6 +2,8 @@ Road accidents are very common.
 
 Probably almost every one of us has been a witness or a participant of one at some point in our lives.
 
+
+
 **According to the WHO and CDC each year, 1.35 million people are killed on roadways around the world.**
 
 Every day, almost 3,700 people are killed globally in road traffic crashes involving cars, buses, motorcycles, 
@@ -29,5 +31,7 @@ and also make big economic situation improvements for many people and the countr
 
 
 References:
+
 https://www.who.int/mediacentre/events/meetings/2011/road_safety/en/
+
 https://www.cdc.gov/injury/features/global-road-safety/index.html
