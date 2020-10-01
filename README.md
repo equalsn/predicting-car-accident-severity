@@ -1,5 +1,5 @@
 # predicting-car-accident-severity
-predicting car accident severity
+This is a capstone project for the Coursera Applied Data Science course.
 
 Sources for data:
 
